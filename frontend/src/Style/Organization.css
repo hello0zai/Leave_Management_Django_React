@@ -1,0 +1,41 @@
+.login-card {
+    width: 400px;
+    border: 1px solid #d9d9d9;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+  }
+.approved {
+    background: rgba(144, 238, 144, 0.3);
+}
+.rejected {
+    background: rgba(250, 128, 114, 0.3);
+}
+.Userposition{
+    font-size: 24px;
+    color: antiquewhite;
+}
+.username{
+    color: antiquewhite;
+    font-size: 18px;
+    margin-top: 5px;
+}
+
+
+/* Organization.css */
+
+.ant-layout-header {
+    background-color: rgb(33, 33, 43) !important;
+}
+  
+.ant-layout-sider {
+    background-color: rgb(33, 33, 43) !important;
+}
+  
+.ant-menu-dark .ant-menu-item-selected {
+    background-color: rgb(33, 33, 43) !important; /* Optional: for selected menu item */
+}
+.logo{
+    color: antiquewhite;
+    font-size: 18px;
+    font-family: Cursive;
+}
